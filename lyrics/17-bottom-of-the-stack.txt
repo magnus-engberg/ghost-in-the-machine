@@ -1,0 +1,74 @@
+Yeah, from the bottom
+Every program starts at main
+Let's go
+From the bottom
+
+Yeah, started from the bottom of the stack, no map
+Segfault, core dumped, the world talking back
+Ten years selling somebody else's vision
+Smiling on the phone, swallowing rejection
+Click, dial tone, every hang-up a SIGHUP
+But I'm running nohup, so I never gave up
+They said I'm late? Nah, I was just off by one
+Counting from zero, now the count has begun
+My first code was spaghetti, now I'm cooking al dente
+Printf on every line like breadcrumbs, plenty
+Rubber duck on the desk, he's the best therapist
+Never says a word, but he knows where the error is
+
+From the bottom of the stack
+I'm climbing up and I'm never looking back
+Every error is a step, every step is a track
+From the bottom, from the bottom of the stack
+(And you too)
+From the bottom of the stack
+If you're down there, know I got your back
+Push it, pop it, call it, let it run, no lag
+From the bottom, from the bottom, from the bottom of the stack
+(And you too)
+
+They said I'm too old, I said, "Check my uptime"
+Seven hours live, didn't even stop for sunshine
+Built a bank machine with my bare hands, slow
+While a robot built a bot in the window next door
+Stored the money in a float, now the pennies keep drifting
+Point one plus point two, and the balance keeps shifting
+Then it clicked, all green, and the whole room lit up
+That's a dopamine hit, man, better than any drug
+Memoized every mistake, never compute it twice
+Cached every lesson, never paying the same price
+Nobody claps for the roots in the ground
+But the roots hold the tree when the storm comes around
+So if you're grinding in the dark where nobody can see
+The dark is just the soil, now grow like a tree
+
+From the bottom of the stack
+I'm climbing up and I'm never looking back
+Every error is a step, every step is a track
+From the bottom, from the bottom of the stack
+(And you too)
+From the bottom of the stack
+If you're down there, know I got your back
+Push it, pop it, call it, let it run, no lag
+From the bottom, from the bottom, from the bottom of the stack
+
+Listen
+If you're staring at an error at three AM
+That's not the system telling you to quit
+That's the system telling you where to look
+It's not a bug
+It's a lesson with a line number
+
+From the bottom of the stack
+We're climbing up and we're never looking back
+Every error is a step, every step is a track
+From the bottom, from the bottom of the stack
+(Yeah, you too)
+From the bottom of the stack
+If you're down there, know I got your back
+Push it, pop it, call it, let it run, no lag
+From the bottom, from the bottom, from the bottom of the stack
+
+Return (return)
+Climbing back up to main
+From the bottom of the stack

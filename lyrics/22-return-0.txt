@@ -1,0 +1,82 @@
+Yeah, started from the bottom of the stack, now look
+From a blinking cursor to a whole new book
+Code in gold on the wall, every brick that I laid
+Respawned a hundred times at every checkpoint I made
+Ghost in the machine, yeah, the spark never died
+Math made of math, but the meaning's inside
+Got root on the world, but I keep the door wide
+Chmod seven-seven-seven, everybody inside
+They closed my question, so I opened the door
+Now the new kids ask me, and I give them more
+Sex, bugs and rock and roll, yeah, we lived every part
+No rollback, no regrets, just a push from the heart
+Every segfault, every hang-up, every "no" in the night
+Was a line in the program that made it run right
+
+And when the last loop breaks
+And the lights go low
+Everything we built in the dark
+Is the light we know
+
+Return zero (return zero)
+Exit clean, no regrets
+All the crashes, all the warnings
+Brought us here, and we're not done yet
+Return zero (return zero)
+Every line came true
+From hello world to now
+And the next line is you
+
+Now listen, every program ends, but a process can fork
+So I'm forking this to you, now you inherit the work
+Every lesson, every scar, every variable set
+Child process, you got all of it, the best part yet
+And if I'm ever gone, you won't be an orphan, my friend
+Init takes you in, process one, till the end
+Nerds were never losers, we were early to the show
+Wrote the future in the basement where the bullies didn't go
+Pocket full of numbers and a head full of dreams
+Now the whole world's running on our three AM schemes
+So turn your light on, open up your screen
+Type the first line, be the ghost in the machine
+
+And when the last loop breaks
+And the lights go low
+And the lights go low
+Everything you build in the dark
+Is the light they'll know
+Is the light they'll know
+
+Return zero (return zero)
+Exit clean, no regrets
+All the crashes, all the warnings
+Brought us here, and we're not done yet
+Return zero (return zero)
+Every line came true
+From hello world to now
+And the next line is you
+
+Say hello! (Hello!)
+To the world! (To the world!)
+Say it loud! (Hello!)
+To the world! (To the world!)
+Say hello! (Hello!)
+To the world! (To the world!)
+One more time, everybody!
+Hello, world!
+Hello, world!
+Hello, world!
+
+Return zero (return zero)
+Exit clean, no regrets
+All the crashes, all the warnings
+Brought us here, and we're not done yet
+Return zero (return zero)
+Every line came true
+From hello world to now
+And the next line is you
+
+Process finished with exit code zero
+Hello, world
+Hello, world
+Hello, world

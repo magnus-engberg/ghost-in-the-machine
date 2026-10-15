@@ -1,0 +1,84 @@
+In the left corner, born at Bell Labs, the old king, C!
+(Ohhh!)
+In the right corner, blazingly fast, the new queen, Rust!
+Round one, fight!
+(Fight, fight, fight, fight, fight, fight)
+
+I was here before your compiler had a name
+Nineteen seventy-two, Bell Labs, started the game
+K&R on my shelf, that's my bible and my sword
+You need Cargo just to carry all your crates on board
+Every OS that you love is running on my code
+Every kernel, every router, every chip on the road
+Three days fighting the borrow checker just to print "hello"
+I wrote "hello, world" before lunch, so let's go
+Raw pointers, no seatbelt, I goto where I please
+Memory's my playground, and I'm holding all the keys
+
+Borrow checker (check it!)
+Old school versus new school
+Borrow checker (check it!)
+Who's gonna build the world?
+Segfault? (Never heard of her!)
+Pointer versus crate
+One of us is legendary
+One of us is great!
+One of us is legendary
+One of us is great!
+
+Anywhere you please? That's the problem, my dude
+Use after free, and your users get screwed
+You hand people footguns and you call it a feature
+Undefined behavior, and you call yourself a teacher?
+Raw pointers, no protection, that's a risky way to be
+Keep it up, and you're gonna catch a CVE
+I got fearless concurrency, no data race
+Ownership is clear, everything's in its place
+Linus let me in the kernel, so it's my house too
+Blazingly fast, and I'm safer than you
+Segfault? Never heard of her, I don't know the name
+Rewrite it in Rust, that's the name of the game
+
+"Blazingly fast," but your build takes a year
+I compiled a whole OS while you were waiting here
+And every time you wanna talk to the hardware or me
+You gotta type "unsafe," so tell me who's really free?
+Ferris on your T-shirt, doing crab raves in the street
+I'm the bedrock under every server you will ever meet
+
+Bedrock with cracks, that's a CVE parade
+Every buffer overflow is an open door you made
+My lifetimes got labels, tick-a, tick-b
+Your pointers got no lifetimes, dangling like leaves
+Many can look, but only one gets to touch
+That's the borrow rule, baby, and you want it too much
+Respect to the elder, yeah, you raised the whole scene
+But the future wants it safe, and I'm the future's queen
+And when I'm done with you, I implement Drop!
+
+Borrow checker (check it!)
+Old school versus new school
+Borrow checker (check it!)
+Who's gonna build the world?
+Segfault? (Never heard of her!)
+Pointer versus crate
+One of us is legendary
+One of us is great!
+
+Truce?
+Truce
+Old school or new school, we're the nerds on the mic
+We both build the world while the world sleeps at night
+And we both agree
+JavaScript is weird
+(NaN! NaN! NaN! NaN!)
+
+Borrow checker (check it!)
+Old school and new school
+Borrow checker (check it!)
+Together we build the world
+Segfault? (We survived it!)
+Pointer and a crate
+One of us is legendary
+And both of us are great!
+Compile!

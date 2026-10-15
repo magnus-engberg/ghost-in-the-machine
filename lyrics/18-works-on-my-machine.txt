@@ -1,0 +1,82 @@
+Have you tried turning it off and on again?
+On again!
+Let's go
+
+Ninety-nine little bugs in the code, ninety-nine bugs
+Take one down, patch it around, a hundred twenty-seven bugs
+(What? What? What?)
+Code review came back, it says "LGTM"
+Didn't read a single line, but hey, I trust them
+It's not a bug, it's a feature, write it in the docs
+Party at localhost, everybody, knock-knock
+There's no place like home, one-two-seven-oh-oh-one
+Everybody's invited, but it's just me, still fun
+We don't drop acid, baby, we do ACID, every transaction clean
+Hitting pipes all night long, cat into grep into the screen
+
+Don't ask me how
+Don't ask me why
+It runs, it runs
+So let it fly
+
+It works on my machine! (My machine!)
+Don't ask me how, don't ask me why
+It works on my machine! (My machine!)
+Hands up if you've told that lie! (Hands up!)
+"Then we'll ship your machine!" (Ship it!)
+Pack the whole party in a box
+It works on my machine!
+And my machine never stops!
+And my machine never stops!
+
+Been stuck inside of Vim since twenty-nineteen
+Colon, q, bang, now I'm free, I'm on the scene
+Tabs or spaces? Man, who cares, let's dance
+Server said four-eighteen, now it thinks it's a teapot
+Sixty tabs open and my laptop's getting real hot
+Forty are Stack Overflow, ten of 'em are docs
+The other ten are cat videos, 'cause man, the cat rocks
+My dealer is a package manager, deep in dependency hell
+Installed one little package, got a thousand more as well
+Boss asked, "Is it done yet?" I said, "Ninety percent"
+And the other ninety percent is where the weekend went
+Ran a smoke test on the build, and nothing caught on fire
+Ship it to production, baby, take it even higher
+
+Don't ask me how (how?)
+Don't ask me why (why?)
+It runs, it runs
+So let it fly
+
+It works on my machine! (My machine!)
+Don't ask me how, don't ask me why
+It works on my machine! (My machine!)
+Hands up if you've told that lie! (Hands up!)
+"Then we'll ship your machine!" (Ship it!)
+Pack the whole party in a box
+It works on my machine!
+And my machine never stops!
+
+And if it breaks tomorrow
+We'll debug it in the light
+Tonight we're shipping happy
+Tonight it runs just right
+
+Sex, bugs and rock and roll! (Rock and roll!)
+Sex, bugs and rock and rollback!
+Sex, bugs and rock and rollback! (Rollback!)
+Everybody say it! (It works on my machine!)
+Louder! (It works on my machine!)
+(It works on my machine!)
+
+It works on my machine! (My machine!)
+Don't ask me how, don't ask me why
+It works on my machine! (My machine!)
+Hands up if you've told that lie! (Hands up!)
+"Then we'll ship your machine!" (Ship it!)
+Pack the whole party in a box
+It works on my machine!
+And my machine never stops!
+
+Have you tried turning it off and on again?
+On again!

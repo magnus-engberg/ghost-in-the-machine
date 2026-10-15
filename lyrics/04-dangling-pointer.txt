@@ -1,0 +1,72 @@
+You said goodbye at a quarter to three
+Called free on us, and you walked out on me
+But I still keep going back to your address
+Reading what's not there, baby, I'm a mess
+I thought we were heap, I thought you would stay
+But you were only stack, love, and you popped away
+
+And I know, I know
+I shouldn't touch what isn't mine
+But my heart keeps reaching for you
+One more time
+
+You're a dangling pointer (ooh)
+Still pointing at my heart
+Memory's been freed, but you're still in the dark
+Every time I reach for you, I segfault and fall
+Core dumped on the floor, baby, that's all
+You're a dangling pointer (pointer)
+Gotta set you to null
+No garbage collector, gotta let you go myself
+Ooh, I gotta let you go myself
+(Yeah, yeah, yeah, yeah, yeah)
+
+Yo, I malloc'd my love and I never once freed it
+Valgrind ran a scan and said, "Bro, you don't need it"
+Leak in my chest, every byte with your name
+Every time I touch it, segfault, same old pain
+That's the system saying, "Boundaries, respect 'em"
+Used to ignore the warnings, now I don't neglect 'em
+We were a lambda, no name, one night only
+Out of scope by morning, but the closure still holds me
+You were a shallow copy, changing when I changed
+Now I want a deep copy, love that stays the same
+Big-endian, little-endian, couldn't agree which end comes first
+Compiled us with dash Wall, and the warnings got worse
+In Java you'd be garbage, collected and gone
+But this is C, baby, so I held on too long
+Sizeof my love? Long long, sixty-four bits
+But I'm const now, can't modify me, that's it
+
+And I know, I know
+I shouldn't touch what isn't mine
+But my heart keeps reaching for you
+One more time
+
+You're a dangling pointer (ooh)
+Still pointing at my heart
+Memory's been freed, but you're still in the dark
+Every time I reach for you, I segfault and fall
+Core dumped on the floor, baby, that's all
+You're a dangling pointer (pointer)
+Gotta set you to null
+No garbage collector, gotta let you go myself
+Ooh, I gotta let you go myself
+
+Set it to null (set it to null)
+Let the old address go
+Now I'm pointing at ampersand me (ampersand me)
+The only address I know
+
+You were a dangling pointer (ooh)
+Now I'm pointing at me
+Memory's been freed, and now I'm finally free
+No more reaching in the dark, no more segfault and fall
+Clean exit, baby, no errors at all
+You were a dangling pointer (pointer)
+Now I set you to null
+No garbage collector, but I let you go myself
+Ooh, I let you go myself
+
+(Mmm) Free
+(Mmm) Free
