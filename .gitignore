@@ -1,0 +1,3 @@
+# Albumets zip-fil laddas upp som release, inte som fil i repot (den är över
+# GitHubs gräns på 100 MB per fil).
+release/
